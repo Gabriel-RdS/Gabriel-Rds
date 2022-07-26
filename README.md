@@ -8,7 +8,3 @@ Olá, meu nome é Gabriel:
       
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rds&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="gabriel-ramosdossantos" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-ramosdossantos?trk=profile-badge">Gabriel Ramos dos Santos</a></div>
-              
