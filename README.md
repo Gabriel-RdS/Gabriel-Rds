@@ -8,4 +8,4 @@ Olá, meu nome é Gabriel:
 
 </sub>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-RdS&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-gabriel-ramos-dos-santos-projects.vercel.app/api/top-langs/?username=Gabriel-RdS&layout=compact&theme=dracula&count_private=true)
